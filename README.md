@@ -12,3 +12,6 @@ Uma procedure `ManipulaEmployee` foi criada para permitir operações de inserç
 1. Clone o repositório.
 2. Execute o script SQL para criar o banco de dados e as tabelas.
 3. Utilize as consultas e a procedure conforme necessário para manipular os dados e checar seus resultados.
+
+## Estudo de Views
+Adicionado o estudo de Views e a criação de usuários com suas permissões estabelecidas. 
